@@ -1,0 +1,36 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Basics Features}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{Class, Pages \& Sections}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{Text Formatting}{8}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{3}{Columns, Blocks \& Lists}{12}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{4}{Side Notes}{15}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Floats \& Cross-References}{17}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Figures \& Tables}{18}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Algorithms \& Listings}{22}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{3}{Mathematical Elements}{25}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{4}{Cross-References}{26}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Overlays \& Animations}{29}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Introduction to Overlays}{30}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Overlay Specifications}{34}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{3}{Overlay Commands}{58}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{4}{Misc. Overlays}{69}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Appendix}{78}{1}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{References}{80}{1}{5}

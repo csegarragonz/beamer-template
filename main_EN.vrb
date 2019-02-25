@@ -1,0 +1,24 @@
+\frametitle{File Content \& Console}
+
+    This theme includes two additional environments based on the \href{https://ctan.org/pkg/framed?lang=en}{\texttt{framed}} package.
+
+    \vspace{0.25cm}
+    The first one, \texttt{filetext}, is meant to display the content of some text file:
+
+    \begin{filetext}
+First line in the text file; \\
+second line, with some highlighting \textcolor{fgRed}{here} and \colorbox{fgRed}{there}; \\
+and here's a third line.
+    \end{filetext}
+
+    \vspace{0.25cm}
+    The second one, \texttt{consoletext}, aims at displaying text shown in some terminal:
+
+    \begin{consoletext}
+invite/>mycommand myparameter \& \\
+mycommand: command not found \\
+invite/>$\blacksquare$
+    \end{consoletext}
+
+    \vspace{0.25cm}
+    \textbf{Note:} like for the source code (Page~\ref{frm:sourcecode}), it is necessary to use the \texttt{fragile} option when defining a frame relying on these environments.
